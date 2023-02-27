@@ -6,7 +6,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -16,7 +16,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -26,7 +26,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -36,7 +36,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -46,7 +46,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -56,7 +56,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -66,7 +66,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -76,7 +76,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -86,7 +86,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -96,7 +96,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -106,7 +106,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -116,7 +116,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -126,7 +126,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -136,7 +136,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -146,7 +146,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -156,7 +156,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -166,7 +166,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -176,7 +176,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -186,7 +186,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -196,7 +196,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
     {
@@ -206,7 +206,7 @@ const Data = [
         disc:"Why is the Tesla Cybertruck designed the way it is",
         date: "02.02.2023",
         duration: "2.5hr",
-        profile: "https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo",
+        profile: "https://media.licdn.com/dms/image/D4D03AQEEsMRnr3RdIw/profile-displayphoto-shrink_400_400/0/1673983238034?e=1683158400&v=beta&t=Sj9Irj1Kpyu54zh_xH2fs1FDcn_aXD-nMYxtKx9BUUk",
         insname: " Prince Kumar"
     },
 

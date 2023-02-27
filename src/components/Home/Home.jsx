@@ -104,15 +104,15 @@ const Home = () => {
       <br />
 {/* ################### */}
       <div className="flex h-[300px] justify-around mt-20 flex-wrap">
-        <div className="bg-[url('https://media.istockphoto.com/id/935507394/photo/young-female-college-student-in-chemistry-class-writing-notes-focused-student-in-classroom.jpg?s=612x612&w=0&k=20&c=5eYl1a3e3pKYib13DQREZx_Ei0QdpGr8j99f1JJUxCo=')] h-[100%] w-[40%] rounded-xl  flex flex-col flex-wrap text-start justify-center  align-middle  ">
+        <div className="bg-[url('https://media.istockphoto.com/id/935507394/photo/young-female-college-student-in-chemistry-class-writing-notes-focused-student-in-classroom.jpg?s=612x612&w=0&k=20&c=5eYl1a3e3pKYib13DQREZx_Ei0QdpGr8j99f1JJUxCo=')]  h-[100%] w-[40%] rounded-xl  flex flex-col flex-wrap text-start justify-center  align-middle  ">
           
-          <div className="text-2xl text-white">Unlock your learning potential with CipherSchools</div>
+          <div className="text-1xl text-white">Unlock your learning potential with CipherSchools</div>
           <div className="text-4xl text-orange-400 mt-5">Best platform for the students</div>
         <button className="btn-left mt-5 relative left-0">Student</button>
         </div>
       
         <div className="bg-[url('https://apicms.thestar.com.my/uploads/images/2022/05/15/1585587.jpg')] bg-cover h-[100%] w-[40%] rounded-xl flex flex-col flex-wrap text-start justify-center  align-middle ">
-        <div className="text-2xl text-white">Empowering students to open their minds to utmost knowledge</div>
+        <div className="text-1xl text-white">Empowering students to open their minds to utmost knowledge</div>
           <div className="text-4xl text-orange-400  mt-5">Be the mentor you never had</div>
         <button className="btn-left mt-5 relative left-0">Creaters</button>
         </div>
