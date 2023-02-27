@@ -1,0 +1,13 @@
+
+.fixed{
+	position: fixed;
+	left: 0;
+	height: 100%;
+}
+body{
+	background-color: rgba(151, 153, 154, 0.192);
+}
+
+/* .border-view{
+	border: 2px solid red;
+} */
