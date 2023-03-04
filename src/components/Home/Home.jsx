@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCss3,
@@ -17,7 +18,7 @@ const Home = () => {
 
       <div className=" flex flex-wrap  text-center flex-grow flex-col w-[100%] h-[60vh]">
         <div className="w-[40%] pt-[15%] flex flex-col">
-          <h1 className="text-lg text mb-7">
+          <h1 className="text-5xl text mb-7">
             Welcome to the Future of Learnings
           </h1>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
@@ -53,7 +54,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-
+{/* ######################################################## */}
       <div className="items-center w-[100%] h-[150px] flex flex-row justify-center mt-11 mb-11">
         <img
           src="https://sriaurobindouniversity.edu.in/assets/images/scroll-down.gif"
@@ -108,18 +109,18 @@ const Home = () => {
           
           <div className="text-1xl text-white">Unlock your learning potential with CipherSchools</div>
           <div className="text-4xl text-orange-400 mt-5">Best platform for the students</div>
-        <button className="btn-left mt-5 relative left-0">Student</button>
+       <Link to='/course'> <button className="btn-left mt-5 relative left-0">Student</button></Link>
         </div>
       
         <div className="bg-[url('https://apicms.thestar.com.my/uploads/images/2022/05/15/1585587.jpg')] bg-cover h-[100%] w-[40%] rounded-xl flex flex-col flex-wrap text-start justify-center  align-middle ">
         <div className="text-1xl text-white">Empowering students to open their minds to utmost knowledge</div>
           <div className="text-4xl text-orange-400  mt-5">Be the mentor you never had</div>
-        <button className="btn-left mt-5 relative left-0">Creaters</button>
+      <Link to='/creater'>  <button className="btn-left mt-5 relative left-0">Creaters</button></Link>
         </div>
       </div>
 
       {/* Top creaters company section  */}
-        <div className="text-amber-500 text-5xl text-center mt-10"> Our Top Creaters From</div>
+        <div className="text-amber-500 text-5xl text-center mt-10"> Our Top Educators From</div>
       <div className="w-full mt-28">
         <div className="h-[100px]  overflow-hidden relative w-auto">
             <ul className="flex justify-between h-[100%] w-[calc(250px*14)] animate-scroll">

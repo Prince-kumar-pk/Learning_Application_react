@@ -19,16 +19,21 @@
   width: auto;
   flex-direction: column;
   justify-content: space-evenly;
-  background-color: #10182f;
+  /* background-color: #10182f; */
   flex-wrap: wrap;
 }
 .card {
   margin: 10px;
   background-color: #fff;
   border-radius: 10px;
-  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 3px 2px 20px 0px rgb(33 8 8 / 20%);
   overflow: hidden;
+  transition: transform .2s ease-in-out;
   width: 300px;
+}
+.card:hover {
+  transform: scale(1.1);
+ cursor: pointer;
 }
 .card-header img {
   width: 100%;

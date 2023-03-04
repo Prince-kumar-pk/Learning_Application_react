@@ -26,7 +26,7 @@ export default function Course() {
           <img src= {item.profile}alt="user" />
           <div className="user-info">
             <h5>{item.insname}</h5>
-            <small>Instructure</small>
+            <small>Instructor</small>
           </div>
         </div>
       </div>
